@@ -6,7 +6,7 @@ title: Braille
 
 Isto é braille!
 
-![b](Cell/12.png)
+![b](Cell/12.png width:10)
 ![r](Cell/1235.png)
 ![a](Cell/1.png)
 ![i](Cell/24.png)
