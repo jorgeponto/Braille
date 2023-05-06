@@ -4,10 +4,10 @@ title: Braille
 
 Isto é braille!
 
-![b](12.png)
-![r](1235.png)
-![a](1.png)
-![i](24.png)
-![l](123.png)
-![l](123.png)
-![e][15.png]
+![b](Cell/12.png)
+![r](Cell/1235.png)
+![a](Cell/1.png)
+![i](Cell/24.png)
+![l](Cell/123.png)
+![l](Cell/123.png)
+![e][Cell/15.png]
