@@ -27,3 +27,47 @@ O primeiro capítulo, "Sistema Braille", integra 7 secções. Nelas se define e 
 Os quatro apêndices completam esta publicação. No primeiro está incluído um conjunto de símbolos e regras referentes à escrita braille em contexto informático. O segundo apêndice apresenta conjuntos de símbolos braille empregados em alemão, dinamarquês, espanhol, francês, inglês, italiano, latim e sueco, não coincidentes com os portugueses ou inexistentes na língua portuguesa. No terceiro encontram-se os alfabetos grego, hebraico e russo ou cirílico moderno. O último apêndice contém alguns sinais convencionais usados em esperanto e noutras línguas.
 
 Os índices de significados e de significantes, que não abrangem os apêndices, remetem o leitor para as secções em que é tratada a matéria respectiva, indicando as páginas correspondentes.
+
+## Capítulo I - Sistema Braille
+
+### 1. Definição
+
+O sistema de escrita em relevo conhecido pelo nome de «Braille» estrutura-se a partir das combinações dos seis pontos [!pontos 123456](../Cell/123456.png) (1,2,3,4,5,6). [nota de rodapé] Os pontos da mesma célula são separados por vírgulas. Quando se utiliza mais que uma célula, estas são separadas por ponto e vírgula. [fim de nota] Este conjunto matricial denomina-se, por isso, sinal fundamental.
+
+O espaço ocupado por qualquer destas combinações é denominado célula braille ou, no Brasil, cela braille. O Sistema Braille dispõe, pois, de 64 sinais, incluindo o espaço vazio.
+
+### 2. Identificação dos pontos
+
+Para facilmente se identificarem e se estabelecer exactamente a sua posição relativa, os pontos são numerados de cima para baixo e da esquerda para a direita. Os três pontos que formam a fila vertical esquerda [nota de rodapé] Em casos como este surgirá a representação com pontos braille seguida do sinal a tinta, na mesma posição relativa ou na linha de baixo [fim de nota], pontos 123 l, têm os números 1, 2, 3; aos que compõem a fila vertical direita, pontos 456 |, cabem os números 4, 5, 6.
+
+### 2.1. os números dos pontos dos sinais braille escrevem-se consecutivamente, com o sinal de número apenas antes do número referente ao primeiro ponto de cada célula.
+
+Exemplos:
+
+p (1,2,3,4) = pontos 1234 pontos 126pontos 3456pontos 1pontos 2pontos 12pontos 2pontos 14pontos 2pontos 145pontos 345 (letra p)
+
+ô (1,4,5,6) = pontos 1456 pontos 126pontos 3456pontos 1pontos 2pontos 145pontos 2pontos 15pontos 2pontos 124pontos 345 (letra o circunflexo)
+
+ü (1,2,5,6) = pontos 1256 pontos 126pontos 3456pontos 1pontos 2pontos 12pontos 2pontos 15pontos 2pontos 124pontos 345 (letra u trema)
+
+t (2,3,4,5) = pontos 2345 pontos 126pontos 3456pontos 12pontos 2pontos 14pontos 2pontos 145pontos 2pontos 15pontos 345 (letra t)
+
+ã (3,4,5) = pontos 345 pontos 126pontos 3456pontos 14pontos 2pontos 145pontos 2pontos 15pontos 345 (letra a til)
+
+o (1,3,5) = pontos 135 pontos 126pontos 3456pontos 1pontos 2pontos 14pontos 2pontos 15pontos 345 (letra o)
+
+< (2,4,6) = pontos 246 pontos 126pontos 3456pontos 12pontos 2pontos 145pontos 2pontos 124pontos 345 (sinal de menor que)
+
+g (1,2,4,5) = pontos 1245 pontos 126pontos 3456pontos 1pontos 2pontos 12pontos 2pontos 145pontos 2pontos 15pontos 345 (letra g)
+
+â (1,6) = pontos 16 pontos 126pontos 3456pontos 1pontos 2pontos 124pontos 345 (letra a circunflexo)
+
+I (4,6;2,4) = pontos 46pontos 24 pontos 126pontos 3456pontos 145pontos 2pontos 124pontos 23pontos 12pontos 2pontos 145pontos 345 (letra i maiúscula)
+
+x (1,3,4,6) = pontos 1346 pontos 126pontos 3456pontos 1pontos 2pontos 14pontos 2pontos 145pontos 2pontos 124pontos 345 (letra x)
+
+eu (1,5;136) = pontos 15pontos 136 pontos 126pontos 3456pontos 1pontos 2pontos 15pontos 23pontos 1pontos 14pontos 124pontos 345 (primeira pessoa do singular, eu)
+
+2.2. Uma célula vazia é identificada pelo cardinal 0  pontos 3456pontos 245.
+
+Exemplos: O sinal de igualdade = (2,3,5,6), entre palavras, deve ser representado entre células vazias. Assim "vermelho = encarnado" ficará em braille:  pontos 1236pontos 15pontos 1235pontos 134pontos 15pontos 123pontos 125pontos 135espaçopontos 3456pontos 245pontos 2356pontos 3456pontos 245espaçopontos 15pontos 1345pontos 14pontos 1pontos 1235pontos 1345pontos 1pontos 145pontos 135 (0;2,3,5,6;0).
