@@ -32,7 +32,7 @@ Os índices de significados e de significantes, que não abrangem os apêndices,
 
 ### 1. Definição
 
-O sistema de escrita em relevo conhecido pelo nome de «Braille» estrutura-se a partir das combinações dos seis pontos <img alt="pontos 123456" src="../Cell/123456.png" style="border:1px solid red; padding:0; margin:0" width="1.6%"> (1,2,3,4,5,6). [nota de rodapé] Os pontos da mesma célula são separados por vírgulas. Quando se utiliza mais que uma célula, estas são separadas por ponto e vírgula. [fim de nota] Este conjunto matricial denomina-se, por isso, sinal fundamental.
+O sistema de escrita em relevo conhecido pelo nome de «Braille» estrutura-se a partir das combinações dos seis pontos <img alt="pontos 123456" src="../Cell/123456.png" height="25" style="vertical-align:center"> (1,2,3,4,5,6). [nota de rodapé] Os pontos da mesma célula são separados por vírgulas. Quando se utiliza mais que uma célula, estas são separadas por ponto e vírgula. [fim de nota] Este conjunto matricial denomina-se, por isso, sinal fundamental.
 
 O espaço ocupado por qualquer destas combinações é denominado célula braille ou, no Brasil, cela braille. O Sistema Braille dispõe, pois, de 64 sinais, incluindo o espaço vazio.
 
